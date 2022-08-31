@@ -10,7 +10,7 @@ func main() {
 		if cmd == "help" {
 			fmt.Println("I will help you.")
 		} else if cmd == "quit" {
-			fmt.Println("Bye")
+			fmt.Println("Bye Bye")
 			break
 		} else {
 			fmt.Println("please input right command!")
